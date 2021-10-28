@@ -1,10 +1,11 @@
 import React from 'react'
 
 import { BrowserRouter, Route } from 'react-router-dom'
-import Routes from '../routes/Routes'
 
 import Header from './Header'
 import Footer from './Footer'
+
+import Routes from '../routes/Routes'
 
 const Layout = () => {
     return (
@@ -19,9 +20,9 @@ const Layout = () => {
                     </div>
                     <Footer/>
                 </div>
-            )}/>        
+            )}/>
         </BrowserRouter>
     )
 }
 
-export default Layout 
+export default Layout

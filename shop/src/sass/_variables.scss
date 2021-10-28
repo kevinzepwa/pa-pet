@@ -1,5 +1,5 @@
 $main-bg: #fff;
-$main-color: #4267b2;
+$main-color: #23bf0b;
 
 $txt-main-color: #000;
 $txt-second-color: #8d8d8d;
@@ -11,7 +11,9 @@ $btn-main-color: #fff;
 $header-height: 170px;
 $header-tablet-height: 70px;
 $header-mobile-height: 40px;
-$header-shrink-height: 40px;
+$header-shrink-height: 70px;
+
+$box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 
 $colors: (
   "blue": #4267b2,
@@ -19,6 +21,14 @@ $colors: (
   "pink": #fe7e73,
   "white": #fff,
   "black": #000,
+  "red": red,
+  "green": green,
+  "yellow": yellow,
+  "gold": gold,
+  "purple": purple,
+  "brown": brown,
+  "custom1": #2d7878,
+  "custom2": #259d13,
   "main": $main-color,
 );
 
