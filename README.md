@@ -20,3 +20,4 @@ An e-commerce site built by React fr and a Django bc.
 
 1. Run npm install
 2. Run npm start
+
