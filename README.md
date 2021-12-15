@@ -16,7 +16,7 @@ An e-commerce site built by React fr and a Django bc.
 - npm package
 - Browser of your choice
 
-## Setup
+## Settinng up
 
 1. Run npm install
 2. Run npm start
