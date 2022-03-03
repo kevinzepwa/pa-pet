@@ -2,9 +2,13 @@
 
 An e-Commerce Pet store project
 
-This is a "pet project"!
+-This is a "pet project"!
 
 An e-commerce site built by React fr and a Django bc.
+
+## See it [Live](https://pa-pet.netlify.app/)
+
+<img src="https://pa-pet.netlify.app/static/media/product-08%20(2).2daaedb0.jpg" />
 
 ## Getting started
 
@@ -16,7 +20,8 @@ An e-commerce site built by React fr and a Django bc.
 - npm package
 - Browser of your choice
 
-## Setup
-
+## Settinng up
+ 
 1. Run npm install
 2. Run npm start
+
